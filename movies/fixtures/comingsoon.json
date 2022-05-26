@@ -1,0 +1,128 @@
+[
+   {
+      "model": "movies.comingsoon",
+      "pk": 1,
+      "fields": {
+         "title": "쥬라기 월드-도미니언",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85689/85689_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 2,
+      "fields": {
+         "title": "극장판 포켓몬스터DP-기라티나와 하늘의 꽃다발 쉐이미",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85833/85833_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 3,
+      "fields": {
+         "title": "애프터 양",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85884/85884_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 4,
+      "fields": {
+         "title": "카시오페아",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85882/85882_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 5,
+      "fields": {
+         "title": "[아르코라이브]#해시태그",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85928/85928_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 6,
+      "fields": {
+         "title": "특수요원 빼꼼",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85888/85888_320.jpg",
+         "d_day": "6"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 7,
+      "fields": {
+         "title": "올리 마키의 가장 행복한 날",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85860/85860_320.jpg",
+         "d_day": "7"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 8,
+      "fields": {
+         "title": "[한밤의 미술관] 1st 세느강을 따라 미술관이 흐른다 (파리편)",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85940/85940_320.jpg",
+         "d_day": "8"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 9,
+      "fields": {
+         "title": "브로커",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85829/85829_320.jpg",
+         "d_day": "13"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 10,
+      "fields": {
+         "title": "윤시내가 사라졌다",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85859/85859_320.jpg",
+         "d_day": "13"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 11,
+      "fields": {
+         "title": "[아르코라이브]모빌리티",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85929/85929_320.jpg",
+         "d_day": "13"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 12,
+      "fields": {
+         "title": "이공삼칠",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85883/85883_320.jpg",
+         "d_day": "13"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 13,
+      "fields": {
+         "title": "그대라는기억 연숙씨",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85867/85867_320.jpg",
+         "d_day": "14"
+      }
+   },
+   {
+      "model": "movies.comingsoon",
+      "pk": 14,
+      "fields": {
+         "title": "베르네 부인의 장미정원",
+         "poster_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85891/85891_320.jpg",
+         "d_day": "14"
+      }
+   }
+]
