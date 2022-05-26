@@ -29,6 +29,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = [
     'pjtback.herokuapp.com',
     '127.0.0.1',
+    'cheerful-khapse-ebf392.netlify.app',
 ]
 
 
