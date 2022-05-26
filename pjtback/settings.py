@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     'pjtback.herokuapp.com',
     '127.0.0.1',
     'cheerful-khapse-ebf392.netlify.app',
+    '75.2.60.5',
 ]
 
 
