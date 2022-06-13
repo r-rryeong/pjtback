@@ -14,18 +14,18 @@ for i in range(2022, 2011, -1):
 
         t = soup.find_all('div', class_='scm_ellipsis _ellipsis')[j]
         title = t.strong.string
-        # print("제목:", title)
+        print("제목:", title)
 
         date = soup.find_all('dl', class_='movie_item')[j]
         release_date = date.dd.string.strip()
         lst_d = list(release_date)
         lst_d.pop()
         release_date = "".join(lst_d)
-        # print("개봉일:", release_date)
+        print("개봉일:", release_date)
 
         a = list(soup.find_all('dl', class_='movie_item')[j])
         audience = a[-2].string
-        # print("관객수:", audience)
+        print("관객수:", audience)
 
         poster = soup.find_all('div', class_='thumb')[j]
         poster_path = poster.a.img.get('src')
